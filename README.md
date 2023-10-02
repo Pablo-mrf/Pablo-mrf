@@ -1,6 +1,6 @@
 - 👋 Oi, @Pablo-mrf aqui
 - 👀 Sou estudante de TI, prestes a concluir o curso de ADS
-- 🌱 Em breve estarei postando mais aqui...
+- 🌱 Em breve estarei postando mais projetos aqui...
 - 📫 Email: pablom2013outlook.com@gmail.com
 
 <!---
