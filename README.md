@@ -1,7 +1,6 @@
 - 👋 Oi, @Pablo-mrf aqui
-- 👀 Sou estudante de TI, cursando ADS 5° período
-- 🌱 Estou aprendendo e programando...
-- 💞️ Procuro estágio na área de TI
+- 👀 Sou estudante de TI, prestes a concluir o curso de ADS
+- 🌱 Em breve estarei postando mais aqui...
 - 📫 Email: pablom2013outlook.com@gmail.com
 
 <!---
